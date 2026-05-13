@@ -1,0 +1,11 @@
+{
+    "Master": {
+        "SAVE_Student": "Student/SaveStudent",
+        "Get_Country": "Student/GetCountry",
+        "Get_Student": "Student/GetStudentList",
+        "Get_StateByCountryId": "Student/GetState"
+    },
+    "Auth": {
+        "LogIn": "Auth/login"
+    }
+}
